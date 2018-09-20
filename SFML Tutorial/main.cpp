@@ -3,6 +3,7 @@
  *In terms of coding the game loop and state machine, we had help from Sonar Systems' youtube videos and resources: https://github.com/SonarSystems?tab=repositories
  *We used SFML library and found it was very useful to display the graphics.
  *Our game takes a player controlled character and puts it against bosses in a movement based showdown.
+ * Authors are: Hubert Zhao, Nicolas Amaya, Boyd Duffie, Rahul Rudra, Jeremy Cruz
  */
 #include <SFML/Graphics.hpp>
 #include "DEFINITIONS.hpp"
