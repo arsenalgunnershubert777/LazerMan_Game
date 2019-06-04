@@ -36,6 +36,9 @@ The source files are in the SFML Tutorial folder (not the .xcodeproj one). The i
 ## Installation and Testing: 
 You will need the SFML library to run the code.
 
+## Help Received:
+In terms of coding the game loop and state machine, we had help from Sonar Systems' youtube videos and resources: https://github.com/SonarSystems?tab=repositories
+
 ## Contributors:
 - Hubert Zhao
 - Nicolas Amaya
